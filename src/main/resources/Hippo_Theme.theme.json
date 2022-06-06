@@ -1,0 +1,11 @@
+{
+  "name": "Hippo Theme",
+  "dark": false,
+  "author": "",
+  "editorScheme": "/Hippo_Theme_Core.xml",
+  "ui": {
+    "*": {
+      "background": "#E0E0E0"
+    }
+  }
+}
