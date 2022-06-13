@@ -1,11 +1,90 @@
 {
-  "name": "Hippo Theme",
+  "name": "Hippo",
   "dark": false,
-  "author": "",
+  "author": "Pablo Bidwell",
   "editorScheme": "/Hippo_Scheme.xml",
+  "colors":{
+    "basicBackground": "#E8E8E8",
+    "basicForeground": "#000000",
+    "hoverBackground" : "#CCCCCC"
+  },
+  "icons": {
+    "ColorPalette": {
+      "Actions.Green": "#5a9c59",
+      "Actions.Red": "#9c5959",
+      "Actions.Blue": "#5b599c"
+    }
+  },
   "ui": {
+    "FileColor": {
+      "Yellow": "basicBackground",
+      "Green": "basicBackground",
+      "Blue": "basicBackground",
+      "Violet": "basicBackground",
+      "Orange": "basicBackground",
+      "Rose": "basicBackground",
+      "Gray": "basicBackground"
+    },
+
+    "Window.border": "4,4,4,4,E6E6E6",
+    "Tree.modifiedItemForeground": "basicForeground",
+    "Tree.errorForeground": "#CE5858",
+    "ActionButton.hoverBackground": "hoverBackground",
+    "ActionButton.hoverBorderColor": "hoverBackground",
+
     "*": {
-      "background": "#E0E0E0"
+      "background": "basicBackground",
+      "selectionBackground": "hoverBackground",
+      "selectionForeground": "basicForeground"
+    },
+
+    "WelcomeScreen": {
+      "Projects.selectionInactiveBackground": "basicBackground",
+      "Projects.background": "basicBackground",
+      "Projects.selectionBackground": "basicBackground",
+      "Projects.actions.background": "basicBackground"
+    },
+
+    "ComboBox" : {
+      "modifiedItemForeground": "basicForeground",
+      "selectionBackground": "hoverBackground"
+    },
+    "EditorTabs": {
+      "underlinedTabBackground" : "basicBackground",
+      "underlinedTabForeground" : "basicForeground",
+      "hoverBackground" : "hoverBackground",
+      "underlineColor": "#8E8E8E",
+      "underlineHeight": 3,
+      "inactiveColoredFileBackground" : "basicBackground",
+      "inactiveUnderlineColor" : "basicBackground"
+
+    },
+    "Button": {
+      "default.startBackground": "#8E8E8E",
+      "default.endBackground": "#8E8E8E",
+      "default.startBorderColor": "hoverBackground",
+      "default.endBorderColor": "hoverBackground",
+      "default.focusedBorderColor": "hoverBackground",
+
+      "startBackground": "#FFFFFF",
+      "endBackground": "#FFFFFF",
+      "startBorderColor": "hoverBackground",
+      "endBorderColor": "hoverBackground",
+      "focusedBorderColor": "hoverBackground"
+    },
+    "Component.focusColor": "hoverBackground",
+    "CheckBox": {
+    },
+    "CheckBoxMenuItem.background": "hoverBackground",
+    "CheckBoxMenuItem.selectionBackground": "hoverBackground",
+
+    "ToggleButton": {
+      "onForeground": "#FFFFFF",
+      "onBackground": "#000080",
+      "offForeground": "#FFFFFF",
+      "offBackground": "#000000",
+      "buttonColor":  "#FFFFFF",
+      "borderColor": "#FFFFFF"
     }
   }
 }

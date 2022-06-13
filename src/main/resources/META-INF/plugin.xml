@@ -5,17 +5,18 @@
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
-    <name>HippoTheme</name>
+    <name>Hippo Theme</name>
 
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
-    <vendor email="support@yourcompany.com" url="https://www.yourcompany.com">YourCompany</vendor>
+    <vendor email="bidwell.pablo@gmail.com" url="https://github.com/pbidwell">Pablo Bidwell</vendor>
 
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description><![CDATA[
-    Enter short description for your plugin here.<br>
-    <em>most HTML tags may be used</em>
+    Hippo Theme is an almost-monochromatic light theme for JetBrains IDEs - The idea is to mute colors to keep the contrast as low as possible and aim for minimalism without crippling any IDE features.<br>
+    Inspired by the <a href="https://marketplace.visualstudio.com/items?itemName=miqh.core-theme">Core Theme</a> project in VSCode as well as the <a href="https://github.com/abrookins/kant">Kant</a> color scheme.<br>
+    Any feedback is appreciated.<br>
   ]]></description>
 
     <!-- Product and plugin compatibility requirements.
