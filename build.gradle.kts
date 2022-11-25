@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "com.hippo"
-version = "1.0-SNAPSHOT"
+version = "1.3"
 
 repositories {
     mavenCentral()
