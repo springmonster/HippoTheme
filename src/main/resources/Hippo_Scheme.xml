@@ -18,10 +18,6 @@
     <option name="ANNOTATIONS_COLOR" value="000000" />
     <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="e8e8e8" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
-    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="a7700" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="e3e3e3" />
     <option name="GUTTER_BACKGROUND" value="e8e8e8" />
     <option name="LINE_NUMBERS_COLOR" value="b3b3b3" />
@@ -35,14 +31,22 @@
     <option name="VCS_ANNOTATIONS_COLOR_4" value="" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="" />
 
-    <option name="FILESTATUS_MERGED" value="000000" />
-    <option name="FILESTATUS_MODIFIED" value="000000" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="000000" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="000000" />
-    <option name="FILESTATUS_RENAMED" value="000000" />
-    <option name="FILESTATUS_addedOutside" value="000000" />
-    <option name="FILESTATUS_changelistConflict" value="000000" />
-    <option name="FILESTATUS_modifiedOutside" value="000000" />
+    <option name="FILESTATUS_ADDED" value="597062" />
+    <option name="FILESTATUS_COPIED" value="597062" />
+    <option name="FILESTATUS_DELETED" value="A66F00" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="A66F00" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="707059" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="CE5858" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="CE5858" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="CE5858" />
+    <option name="FILESTATUS_MERGED" value="c4afc4" />
+    <option name="FILESTATUS_MODIFIED" value="596170" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="596170" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="596170" />
+    <option name="FILESTATUS_RENAMED" value="596170" />
+    <option name="FILESTATUS_addedOutside" value="597062" />
+    <option name="FILESTATUS_changelistConflict" value="CE5858" />
+    <option name="FILESTATUS_modifiedOutside" value="596170" />
 
   </colors>
   <attributes>
