@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "com.hippo"
-version = "1.3"
+version = "1.4"
 
 repositories {
     mavenCentral()
@@ -27,7 +27,7 @@ tasks {
 
     patchPluginXml {
         sinceBuild.set("212")
-        untilBuild.set("222.*")
+        untilBuild.set("223.*")
     }
 
     signPlugin {
