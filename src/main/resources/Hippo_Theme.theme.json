@@ -10,12 +10,39 @@
   },
   "icons": {
     "ColorPalette": {
-      "Actions.Green": "#5a9c59",
-      "Actions.Red": "#9c5959",
-      "Actions.Blue": "#5b599c"
+      "Actions.Green": "#597062",
+      "Actions.Red": "#612f2f",
+      "Actions.Blue": "#596170",
+      "Actions.Yellow": "#A66F00",
+      "Checkbox.Background.Default": "hoverBackground",
+      "Checkbox.Background.Disabled": "basicBackground",
+      "Checkbox.Background.Selected": "#596170",
+      "Checkbox.Border.Default": "#000000",
+      "Checkbox.Border.Disabled": "#000000",
+      "Checkbox.Border.Selected": "#000000",
+      "Checkbox.Focus.Thin.Default": "#596170",
+      "Checkbox.Focus.Thin.Selected": "#596170",
+      "Checkbox.Focus.Wide": "#596170",
+      "Checkbox.Foreground.Disabled": "basicBackground",
+      "Checkbox.Foreground.Selected": "hoverBackground",
+      "Objects.BlackText": "#000000",
+      "Objects.Blue": "#596170",
+      "Objects.Green": "#597062",
+      "Objects.GreenAndroid": "#597062",
+      "Objects.Grey": "#596170",
+      "Objects.Purple": "#b48ead",
+      "Objects.Red": "#612f2f",
+      "Objects.RedStatus": "#612f2f",
+      "Objects.Yellow": "#A66F00",
+      "Objects.YellowDark": "#A66F00"
     }
   },
   "ui": {
+    "*": {
+      "background": "basicBackground",
+      "selectionBackground": "hoverBackground",
+      "selectionForeground": "basicForeground"
+    },
     "FileColor": {
       "Yellow": "basicBackground",
       "Green": "basicBackground",
@@ -27,16 +54,11 @@
     },
 
     "Window.border": "4,4,4,4,E6E6E6",
-    "Tree.modifiedItemForeground": "basicForeground",
-    "Tree.errorForeground": "#CE5858",
+    "Tree.modifiedItemForeground": "#596170",
+    "Tree.errorForeground": "#612f2f",
     "ActionButton.hoverBackground": "hoverBackground",
     "ActionButton.hoverBorderColor": "hoverBackground",
 
-    "*": {
-      "background": "basicBackground",
-      "selectionBackground": "hoverBackground",
-      "selectionForeground": "basicForeground"
-    },
 
     "WelcomeScreen": {
       "Projects.selectionInactiveBackground": "basicBackground",

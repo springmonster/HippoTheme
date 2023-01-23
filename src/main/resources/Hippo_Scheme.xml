@@ -1,23 +1,31 @@
 <scheme name="Hippo" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2022-06-09T14:37:45</property>
+    <property name="created">2022-12-25T16:33:36</property>
     <property name="ide">Idea</property>
-    <property name="ideVersion">2022.1.2.0.0</property>
-    <property name="modified">2022-06-09T14:38:01</property>
+    <property name="ideVersion">2022.3.0.0</property>
+    <property name="modified">2022-12-25T16:33:55</property>
     <property name="originalScheme">_@user_Hippo</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="PT Mono" />
-  <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="PT Mono" />
-  <option name="CONSOLE_FONT_SIZE" value="13" />
-  <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
-    <option name="ANNOTATIONS_COLOR" value="000000" />
+    <option name="ANNOTATIONS_COLOR" value="0" />
     <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="e8e8e8" />
+    <option name="FILESTATUS_ADDED" value="597062" />
+    <option name="FILESTATUS_COPIED" value="597062" />
+    <option name="FILESTATUS_DELETED" value="a66f00" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="a66f00" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="707059" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="612f2f" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="612f2f" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="612f2f" />
+    <option name="FILESTATUS_MERGED" value="c4afc4" />
+    <option name="FILESTATUS_MODIFIED" value="596170" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="596170" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="596170" />
+    <option name="FILESTATUS_RENAMED" value="596170" />
+    <option name="FILESTATUS_addedOutside" value="597062" />
+    <option name="FILESTATUS_changelistConflict" value="612f2f" />
+    <option name="FILESTATUS_modifiedOutside" value="596170" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="e3e3e3" />
     <option name="GUTTER_BACKGROUND" value="e8e8e8" />
     <option name="LINE_NUMBERS_COLOR" value="b3b3b3" />
@@ -30,24 +38,6 @@
     <option name="VCS_ANNOTATIONS_COLOR_3" value="" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="" />
-
-    <option name="FILESTATUS_ADDED" value="597062" />
-    <option name="FILESTATUS_COPIED" value="597062" />
-    <option name="FILESTATUS_DELETED" value="A66F00" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="A66F00" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="707059" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="CE5858" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="CE5858" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="CE5858" />
-    <option name="FILESTATUS_MERGED" value="c4afc4" />
-    <option name="FILESTATUS_MODIFIED" value="596170" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="596170" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="596170" />
-    <option name="FILESTATUS_RENAMED" value="596170" />
-    <option name="FILESTATUS_addedOutside" value="597062" />
-    <option name="FILESTATUS_changelistConflict" value="CE5858" />
-    <option name="FILESTATUS_modifiedOutside" value="596170" />
-
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
@@ -203,13 +193,14 @@
     <option name="DEFAULT_TAG">
       <value />
     </option>
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value />
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="ce5858" />
-        <option name="ERROR_STRIPE_COLOR" value="ce5858" />
+        <option name="EFFECT_COLOR" value="612f2f" />
+        <option name="ERROR_STRIPE_COLOR" value="612f2f" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -225,6 +216,13 @@
       <value>
         <option name="EFFECT_COLOR" value="b0b0b" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GENERIC_SERVER_ERROR_OR_WARNING">
+      <value>
+        <option name="EFFECT_COLOR" value="a66f00" />
+        <option name="ERROR_STRIPE_COLOR" value="a66f00" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION">
@@ -26056,7 +26054,7 @@
     </option>
     <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="ce5858" />
+        <option name="EFFECT_COLOR" value="612f2f" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -26098,8 +26096,8 @@
     </option>
     <option name="RUNTIME_ERROR">
       <value>
-        <option name="EFFECT_COLOR" value="ce5858" />
-        <option name="ERROR_STRIPE_COLOR" value="ce5858" />
+        <option name="EFFECT_COLOR" value="612f2f" />
+        <option name="ERROR_STRIPE_COLOR" value="612f2f" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -26134,6 +26132,18 @@
         <option name="FOREGROUND" value="0" />
         <option name="BACKGROUND" value="e3e3e3" />
         <option name="ERROR_STRIPE_COLOR" value="b0b0b" />
+      </value>
+    </option>
+    <option name="TEXT_STYLE_ERROR">
+      <value>
+        <option name="EFFECT_COLOR" value="8b353a" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="TEXT_STYLE_WARNING">
+      <value>
+        <option name="EFFECT_COLOR" value="a66f00" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
@@ -26174,8 +26184,93 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ce5858" />
+        <option name="FOREGROUND" value="612f2f" />
       </value>
     </option>
+    <option name="CONSOLE_BLUE_BRIGHT_OUTPUT" baseAttributes="CONSOLE_BLUE_OUTPUT" />
+    <option name="CONSOLE_BLUE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="596170" />
+      </value>
+    </option>
+    <option name="CONSOLE_CYAN_BRIGHT_OUTPUT" baseAttributes="CONSOLE_CYAN_OUTPUT" />
+    <option name="CONSOLE_CYAN_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="596170" />
+      </value>
+    </option>
+    <option name="CONSOLE_DARKGRAY_OUTPUT" baseAttributes="CONSOLE_GRAY_OUTPUT" />
+    <option name="CONSOLE_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="612f2f" />
+      </value>
+    </option>
+    <option name="CONSOLE_GREEN_BRIGHT_OUTPUT" baseAttributes="CONSOLE_GREEN_OUTPUT" />
+    <option name="CONSOLE_GREEN_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="597062" />
+      </value>
+    </option>
+    <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT" baseAttributes="CONSOLE_MAGENTA_OUTPUT" />
+    <option name="CONSOLE_MAGENTA_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="c4afc4" />
+      </value>
+    </option>
+    <option name="CONSOLE_RED_BRIGHT_OUTPUT" baseAttributes="CONSOLE_RED_OUTPUT" />
+    <option name="CONSOLE_RED_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="612f2f" />
+      </value>
+    </option>
+    <option name="CONSOLE_SYSTEM_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="596170" />
+      </value>
+    </option>
+    <option name="CONSOLE_USER_INPUT">
+      <value>
+        <option name="FOREGROUND" value="597062" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="CONSOLE_WHITE_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
+    <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT" baseAttributes="CONSOLE_YELLOW_OUTPUT" />
+    <option name="CONSOLE_YELLOW_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="a66f00" />
+      </value>
+    </option>
+    <option name="LOG_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="596170" />
+      </value>
+    </option>
+    <option name="LOG_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="612f2f" />
+      </value>
+    </option>
+    <option name="LOG_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="597062" />
+      </value>
+    </option>
+    <option name="LOG_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="596170" />
+      </value>
+    </option>
+    <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">
+      <value />
+    </option>
   </attributes>
+  <option name="FONT_SCALE" value="1.0" />
+  <option name="LINE_SPACING" value="1.4" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="PT Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="PT Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
+  <option name="CONSOLE_LIGATURES" value="true" />
 </scheme>
